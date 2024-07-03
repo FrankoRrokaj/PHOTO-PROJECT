@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>PHOTO PROJECT</title>
+        <link rel="stylesheet" href="projekti2.css">
+    </head>
+    <input type="radio" name="Photos" id="check1" checked>
+    <input type="radio" name="Photos" id="check2">
+    <input type="radio" name="Photos" id="check3">
+    <input type="radio" name="Photos" id="check4">
+    <input type="radio" name="Photos" id="check5">
+    <input type="radio" name="Photos" id="check6">
+    <input type="radio" name="Photos" id="check7">
+    
+    <div class="container">
+        <h1>PHOTO PROJECT</h1>
+        <div class="top-content">
+            <h3>Photo Project</h3>
+          <label for="check1">AllPhotos</label checked>
+          <label for="check2">Fashion photos</label>
+          <label for="check3">Animals photos</label>
+          <label for="check4">Mountaint photos</label>
+          <label for="check5">Beaches photos</label>
+          <label for="check6">School photos</label>
+          <label for="check7">Sports photos</label>
+        </div>
+
+        <div class="photo-project">
+              <a href="projektifashion.html"><div class="pic Fashion">
+              <img src="fashion1.jpg">
+        </div></a>
+            <a href="projektianimals.html"><div class="pic Animals">
+                <img src="animals1.jpg">
+            </div></a>
+           <a href="projektimountaint.html"> <div class="pic Mountaint">
+                <img src="mountain1.jpeg">
+        </div></a>
+           <a href="projektibeaches.html"> <div class="pic Beaches">
+                <img src="beaches1.jpg">
+        </div></a>
+           <a href="projektischool.html"> <div class="pic School">
+                <img src="school1.jpg">       
+        </div></a>
+         
+              <a href="projektisport.html"> <div class="pic Sports"> 
+                <img src="sports1.jpg">
+        </div></a>
+        
+
+
+
+</html>
